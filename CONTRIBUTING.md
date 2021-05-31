@@ -1,13 +1,13 @@
-# Contributing to the CMIP6 specializations	
+# Contributing to the CORDEX specializations	
 
 Dear ES-DOC community member,
 
 Thank you for taking the time to consider making a contribution to the
-CMIP6 specializations.
+CORDEX specializations.
 
 This set of guidelines provides a overview of the practices and
 procedures that should be used in fixing, updating, or adding to the
-CMIP6 specializations
+CORDEX specializations
 
 The ES-DOC community takes great pride in respectful and collegial
 discourse. Any disrespectful or otherwise derogatory communication
@@ -25,7 +25,7 @@ will not be tolerated.
 * Pull requests can be made at any time, but they will not be merged
   until a public release of the specializations for all 9 realm
   specializations is due (which is envisaged every ~6 months or longer
-  during the CMIP6 project).
+  during the CORDEX project).
   
 * Multiple changes by the same person should be made by updates to a single pull request. This is to simplify the subsequent merge procedure.
 
@@ -33,7 +33,7 @@ will not be tolerated.
   the master branch, ready to be used by downstream tools (such as the
   spreadsheet generator).
 
-## Version strategy for the CMIP6 specializations
+## Version strategy for the CORDEX specializations
 
 Each individual specialization uses an internal three-level
 **major.minor.trivial** numeric version scheme, e.g 1.0.4, that is
