@@ -240,49 +240,49 @@
   <head />
   <body>
     <dl>
-        <dt><b>Description</b></dt><dd>Convservation</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties</dd>
+        <dt><b>Description</b></dt><dd>Conservation</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties</dd>
     </dl>
   </body>
 </html></richcontent><node BACKGROUND_COLOR="#C9D787" COLOR="#000000" FOLDED="true" STYLE="bubble" TEXT="energy"><font BOLD="True" NAME="courier" SIZE="10" /><richcontent TYPE="NOTE"><html>
   <head />
   <body>
     <dl>
-        <dt><b>Description</b></dt><dd>Describe if/how energy is conserved globally and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd>
+        <dt><b>Description</b></dt><dd>Describe if/how energy is conserved and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd>
     </dl>
   </body>
 </html></richcontent><richcontent TYPE="NOTE"><html>
   <head />
   <body>
     <dl>
-        <dt><b>Description</b></dt><dd>Describe if/how energy is conserved globally and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd>
+        <dt><b>Description</b></dt><dd>Describe if/how energy is conserved and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.energy</dd>
     </dl>
   </body>
 </html></richcontent></node><node BACKGROUND_COLOR="#C9D787" COLOR="#000000" FOLDED="true" STYLE="bubble" TEXT="water"><font BOLD="True" NAME="courier" SIZE="10" /><richcontent TYPE="NOTE"><html>
   <head />
   <body>
     <dl>
-        <dt><b>Description</b></dt><dd>Describe if/how water is conserved globally and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd>
+        <dt><b>Description</b></dt><dd>Describe if/how water is conserved and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd>
     </dl>
   </body>
 </html></richcontent><richcontent TYPE="NOTE"><html>
   <head />
   <body>
     <dl>
-        <dt><b>Description</b></dt><dd>Describe if/how water is conserved globally and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd>
+        <dt><b>Description</b></dt><dd>Describe if/how water is conserved and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.water</dd>
     </dl>
   </body>
 </html></richcontent></node><node BACKGROUND_COLOR="#C9D787" COLOR="#000000" FOLDED="true" STYLE="bubble" TEXT="carbon"><font BOLD="True" NAME="courier" SIZE="10" /><richcontent TYPE="NOTE"><html>
   <head />
   <body>
     <dl>
-        <dt><b>Description</b></dt><dd>Describe if/how carbon is conserved globally and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd>
+        <dt><b>Description</b></dt><dd>Describe if/how carbon is conserved and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd>
     </dl>
   </body>
 </html></richcontent><richcontent TYPE="NOTE"><html>
   <head />
   <body>
     <dl>
-        <dt><b>Description</b></dt><dd>Describe if/how carbon is conserved globally and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd>
+        <dt><b>Description</b></dt><dd>Describe if/how carbon is conserved and to what level (e.g. within X [units]/year)</dd><dt><b>Spec. ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd><dt><b>Type</b></dt><dd>l-str</dd><dt><b>Cardinality</b></dt><dd>0.1</dd><dt><b>Specialization ID</b></dt><dd>land.land.key_properties.conservation_properties.carbon</dd>
     </dl>
   </body>
 </html></richcontent></node></node><node BACKGROUND_COLOR="#ACF0F2" COLOR="#000000" FOLDED="false" STYLE="bubble" TEXT="timestepping_framework"><font BOLD="True" NAME="courier" SIZE="12" /><richcontent TYPE="NOTE"><html>

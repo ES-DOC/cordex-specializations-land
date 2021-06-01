@@ -2577,13 +2577,13 @@
         "subProcesses": [
             {
                 "label": "Conservation Properties", 
-                "description": "Convservation", 
+                "description": "Conservation", 
                 "id": "land.land.key_properties.conservation_properties", 
                 "contact": "David Hassell", 
                 "properties": [
                     {
                         "label": "Overview", 
-                        "description": "Overview of convservation in land model.", 
+                        "description": "Overview of conservation in land model.", 
                         "id": "land.land.key_properties.conservation_properties.overview", 
                         "cardinality": "0.1", 
                         "type": "str", 
@@ -2592,7 +2592,7 @@
                     }, 
                     {
                         "label": "Energy", 
-                        "description": "Describe if/how energy is conserved globally and to what level (e.g. within X [units]/year)", 
+                        "description": "Describe if/how energy is conserved and to what level (e.g. within X [units]/year)", 
                         "id": "land.land.key_properties.conservation_properties.energy", 
                         "cardinality": "0.1", 
                         "type": "l-str", 
@@ -2601,7 +2601,7 @@
                     }, 
                     {
                         "label": "Water", 
-                        "description": "Describe if/how water is conserved globally and to what level (e.g. within X [units]/year)", 
+                        "description": "Describe if/how water is conserved and to what level (e.g. within X [units]/year)", 
                         "id": "land.land.key_properties.conservation_properties.water", 
                         "cardinality": "0.1", 
                         "type": "l-str", 
@@ -2610,7 +2610,7 @@
                     }, 
                     {
                         "label": "Carbon", 
-                        "description": "Describe if/how carbon is conserved globally and to what level (e.g. within X [units]/year)", 
+                        "description": "Describe if/how carbon is conserved and to what level (e.g. within X [units]/year)", 
                         "id": "land.land.key_properties.conservation_properties.carbon", 
                         "cardinality": "0.1", 
                         "type": "l-str", 
